@@ -22,7 +22,7 @@ class Books {
     }
 }
 
-public class Main {
+public class Main1 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int n;
