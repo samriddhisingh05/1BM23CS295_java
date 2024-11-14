@@ -45,3 +45,8 @@ class Printarea {
         Rectangle r = new Rectangle();
         Triangle t = new Triangle();
         Circle c = new Circle();
+        r.printArea();
+        t.printArea();
+        c.printArea();
+}
+}
