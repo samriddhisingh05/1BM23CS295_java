@@ -121,8 +121,8 @@ public class Main {
         System.out.println("\nFinal Marks of Students:");
         for (int i = 0; i < n; i++) {
             students[i].display();
-            internals[i].displayInternalMarks();  // Using the standard for loop to display internal marks
-            externals[i].displayExternalMarks();  // Using the standard for loop to display external marks
+            internals[i].displayInternalMarks();  
+            externals[i].displayExternalMarks();  
 
             System.out.print("Final Marks: ");
             for (int j = 0; j < 5; j++) {
